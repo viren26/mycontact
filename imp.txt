@@ -1,0 +1,8 @@
+http://www.c-sharpcorner.com/UploadFile/d2dcfc/how-to-export-data-to-one-worksheet-and-create-pivot-table-i/
+
+
+https://help.syncfusion.com/file-formats/xlsio/working-with-pivot-tables?cs-save-lang=1&cs-lang=vb
+
+https://www.codeproject.com/Articles/22999/Creating-Pivot-Tables-and-Charts-Using-ActiveX
+
+https://www.easyxls.com/manual/tutorials/vb-net/create-excel-pivot-chart.html
